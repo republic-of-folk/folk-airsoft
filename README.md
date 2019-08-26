@@ -1,5 +1,6 @@
 Republic of Folk Airsoft
 ===============================================================================
+*version 1.0.0*
 
 We present you the newest novelty toy from the remote island republic that normally you'd associate with ~~cheap~~ reasonably priced electronics - airsoft gun replicas! Aimed at adults and children at all ages*, aifsoft gun replicas provide realistic military fun compared to no other toy.
 
@@ -34,6 +35,20 @@ We might not use airsoft replicas of a daily basis, but if you're lucky we'll le
 This addon provides two types of ammunition: `rof_B_6mm_020g_bb` and `rof_B_6mm_020g_lethal`.
 
 When working on your mod, add requirement for `rof_weapons_airsoft_core` and create magazines that use one of these ammo classes and has attribute `initSpeed = 107;` (which gives you 350fps muzzle velocity), and `tracersEvery = 1;` (so pellets are visible in flight).
+
+
+## Changelog
+
+### v1.0.0 - 26.08.2019
+
+#### Added
+
+* Base ammo classes in lethal and non-lethal versions.
+* P90 SMG in 4 texture variants (as in vanilla). 50, 100 and 300 round magazines for it.
+* P99 pistol and 16 round magazines for it.
+
+
+
 
 
 ## Disclaimer
