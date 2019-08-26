@@ -30,7 +30,7 @@ class cfgPatches
 		requiredversion = 1.94;
 		requiredaddons[] = {
 			"rof_weapons_airsoft_core"};
-		version = "1.0";
+		version = "1.0.0";
 		author = "Boberro (Republic of Folk)";
 	};
 };

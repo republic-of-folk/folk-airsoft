@@ -12,7 +12,7 @@ class cfgPatches
 		requiredversion = 1.94;
 		requiredaddons[] = {
 			"A3_Data_F_Enoch_Loadorder"};
-		version = "1.0";
+		version = "1.0.0";
 		author = "Boberro (Republic of Folk)";
 	};
 };
