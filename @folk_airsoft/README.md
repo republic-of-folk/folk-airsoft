@@ -64,6 +64,13 @@ File `build.exe` uses [SwiftPBO library](https://github.com/headswe/SwiftPbo).
 You can see it's source [here](https://github.com/republic-of-folk/rof_addons_build).
 
 
+## Links
+
+* [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1846060911)
+* [BI Forums](https://forums.bohemia.net/forums/topic/225125-republic-of-folk-airsoft-realistic-military-action-at-35-meters-range/)
+* [Github](https://github.com/republic-of-folk/folk-airsoft/releases)
+
+
 ## License
 
 **[Arma Public License Share Alike (APL-SA)](https://www.bohemia.net/community/licenses/arma-public-license-share-alike)**
