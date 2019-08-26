@@ -14,7 +14,7 @@ _* Safety hazard: __never__ aim your airsoft replica at other people nor animals
 
 ## Installation
 
-If you're not using Steam Workshop versio, simply download the latest version and unpack it in your Arma 3 installation folder. Then launch Arma 3 with `-mod=@folk_airsoft` parameter.
+If you're not using Steam Workshop version, simply download the latest version and unpack it in your Arma 3 installation folder. Then launch Arma 3 with `-mod=@folk_airsoft` parameter.
 
 
 ## Safety hazard
