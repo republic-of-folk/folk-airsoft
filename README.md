@@ -19,7 +19,7 @@ If you're not using Steam Workshop versio, simply download the latest version an
 
 ## Safety hazard
 
-Republic of Folk Airsoft comes with standard plastic pellets and lethal ammunition. Both have same ballistic properties (or lack those) but starndard version causes no damage at all and needs to be scripted in the mission.
+Republic of Folk Airsoft comes with standard plastic pellets and lethal ammunition. Both have same ballistic properties (or lack those) but standard version causes no damage at all and needs to be scripted in the mission.
 
 
 ## Shameless plug
