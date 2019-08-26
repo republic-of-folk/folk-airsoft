@@ -2,9 +2,9 @@ Republic of Folk Airsoft
 ===============================================================================
 *version 1.0.0*
 
-We present you the newest novelty toy from the remote island republic that normally you'd associate with ~~cheap~~ reasonably priced electronics - airsoft gun replicas! Aimed at adults and children at all ages*, aifsoft gun replicas provide realistic military fun compared to no other toy.
+We present you the newest novelty toy from the remote island republic that normally you'd associate with ~~cheap~~ reasonably priced electronics - airsoft gun replicas! Aimed at adults and children of all ages*, with accuracy guaranteed up to 35 meters, these aifsoft gun replicas provide realistic military fun compared to no other toy.
 
-Republic of Folk Airsoft replicas provide:
+*Republic of Folk Airsoft* replicas provide:
 
 * A collection of realistic looking gun replicas
 * Both realistic and high capacity magazines
@@ -13,14 +13,20 @@ Republic of Folk Airsoft replicas provide:
 _* Safety hazard: __never__ aim your airsoft replica at other people nor animals!_
 
 
+## Requirements
+
+Arma 3 v1.94
+Currently *Republic of Folk Airsoft* requires no additional mods to work.
+
+
 ## Installation
 
-If you're not using Steam Workshop version, simply download the latest version and unpack it in your Arma 3 installation folder. Then launch Arma 3 with `-mod=@folk_airsoft` parameter.
+If you're not using [Steam Workshop version](https://steamcommunity.com/sharedfiles/filedetails/?id=1846060911), simply download the [latest version](https://github.com/republic-of-folk/folk-airsoft/releases) and unpack it in your Arma 3 installation folder. Then launch Arma 3 with `-mod=@folk_airsoft` parameter.
 
 
 ## Safety hazard
 
-Republic of Folk Airsoft comes with standard plastic pellets and lethal ammunition. Both have same ballistic properties (or lack those) but standard version causes no damage at all and needs to be scripted in the mission.
+*Republic of Folk Airsoft* comes with standard plastic pellets and lethal ammunition. Both have same ballistic properties (or lack those) but standard version causes no damage at all and needs to be scripted in the mission.
 
 
 ## Shameless plug
@@ -60,7 +66,7 @@ You can see it's source [here](https://github.com/republic-of-folk/rof_addons_bu
 
 ## License
 
-**Arma Public License Share Alike (APL-SA)**
+**[Arma Public License Share Alike (APL-SA)](https://www.bohemia.net/community/licenses/arma-public-license-share-alike)**
 
 Brief summary of this Licence:
 
