@@ -22,11 +22,25 @@ If you're not using Steam Workshop versio, simply download the latest version an
 Republic of Folk Airsoft comes with standard plastic pellets and lethal ammunition. Both have same ballistic properties (or lack those) but starndard version causes no damage at all and needs to be scripted in the mission.
 
 
+## Shameless plug
+
+If you want to play with us, you might want to check our website: https://republicoffolk.org
+
+We might not use airsoft replicas of a daily basis, but if you're lucky we'll let you drive a BMP. They you'll pay for the damages you'll cause.
+
+
 ## Building your own replica
 
 This addon provides two types of ammunition: `rof_B_6mm_020g_bb` and `rof_B_6mm_020g_lethal`.
 
 When working on your mod, add requirement for `rof_weapons_airsoft_core` and create magazines that use one of these ammo classes and has attribute `initSpeed = 107;` (which gives you 350fps muzzle velocity), and `tracersEvery = 1;` (so pellets are visible in flight).
+
+
+## Disclaimer
+
+File `build.exe` uses [SwiftPBO library](https://github.com/headswe/SwiftPbo). 
+
+You can see it's source [here](https://github.com/republic-of-folk/rof_addons_build).
 
 
 ## License

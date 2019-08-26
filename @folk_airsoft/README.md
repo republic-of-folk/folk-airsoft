@@ -36,6 +36,13 @@ This addon provides two types of ammunition: `rof_B_6mm_020g_bb` and `rof_B_6mm_
 When working on your mod, add requirement for `rof_weapons_airsoft_core` and create magazines that use one of these ammo classes and has attribute `initSpeed = 107;` (which gives you 350fps muzzle velocity), and `tracersEvery = 1;` (so pellets are visible in flight).
 
 
+## Disclaimer
+
+File `build.exe` uses [SwiftPBO library](https://github.com/headswe/SwiftPbo). 
+
+You can see it's source [here](https://github.com/republic-of-folk/rof_addons_build).
+
+
 ## License
 
 **Arma Public License Share Alike (APL-SA)**
