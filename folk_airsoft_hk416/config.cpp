@@ -7,11 +7,17 @@ class cfgPatches
 	class rof_weapons_airsoft_hk416
 	{
 		units[] = {
-            "rof_weapon_airsoft_hk416_black",
-            "rof_weapon_lethal_airsoft_hk416_black",
+            "rof_weapon_airsoft_hk416_blk",
+            "rof_weapon_airsoft_hk416_khk",
+            "rof_weapon_airsoft_hk416_snd",
+            "rof_weapon_lethal_airsoft_hk416_blk",
+            "rof_weapon_lethal_airsoft_hk416_khk",
+            "rof_weapon_lethal_airsoft_hk416_snd",
         };
 		weapons[] = {
             "rof_weap_airsoft_hk416_blk",
+            "rof_weap_airsoft_hk416_khk",
+            "rof_weap_airsoft_hk416_snd",
         };
 		requiredversion = 1.94;
 		requiredaddons[] = {
@@ -160,7 +166,8 @@ class cfgVehicles
             };
         };
     };
-    class rof_weapon_airsoft_hk416_black : rof_weapon_airsoft_hk416_base
+
+    class rof_weapon_airsoft_hk416_blk : rof_weapon_airsoft_hk416_base
     {
         scope = 2;
         scopeCurator = 2;
@@ -175,7 +182,38 @@ class cfgVehicles
             };
         };
     };
-    class rof_weapon_lethal_airsoft_hk416_black : rof_weapon_lethal_airsoft_hk416_base
+    class rof_weapon_airsoft_hk416_khk : rof_weapon_airsoft_hk416_base
+    {
+        scope = 2;
+        scopeCurator = 2;
+        scopeArsenal = 2;
+        displayName = "Airsoft replica HK416 (Khaki)";
+        class TransportWeapons
+        {
+            class rof_weap_airsoft_hk416_khk
+            {
+                weapon = "rof_weap_airsoft_hk416_khk";
+                count = 1;
+            };
+        };
+    };
+    class rof_weapon_airsoft_hk416_snd : rof_weapon_airsoft_hk416_base
+    {
+        scope = 2;
+        scopeCurator = 2;
+        scopeArsenal = 2;
+        displayName = "Airsoft replica HK416 (Sand)";
+        class TransportWeapons
+        {
+            class rof_weap_airsoft_hk416_snd
+            {
+                weapon = "rof_weap_airsoft_hk416_snd";
+                count = 1;
+            };
+        };
+    };
+
+    class rof_weapon_lethal_airsoft_hk416_blk : rof_weapon_lethal_airsoft_hk416_base
     {
         scope = 2;
         scopeCurator = 2;
@@ -186,6 +224,36 @@ class cfgVehicles
             class rof_weap_airsoft_hk416_blk
             {
                 weapon = "rof_weap_airsoft_hk416_blk";
+                count = 1;
+            };
+        };
+    };
+    class rof_weapon_lethal_airsoft_hk416_khk : rof_weapon_lethal_airsoft_hk416_base
+    {
+        scope = 2;
+        scopeCurator = 2;
+        scopeArsenal = 2;
+        displayName = "Airsoft replica (lethal) HK416 (Khaki)";
+        class TransportWeapons
+        {
+            class rof_weap_airsoft_hk416_khk
+            {
+                weapon = "rof_weap_airsoft_hk416_khk";
+                count = 1;
+            };
+        };
+    };
+    class rof_weapon_lethal_airsoft_hk416_snd : rof_weapon_lethal_airsoft_hk416_base
+    {
+        scope = 2;
+        scopeCurator = 2;
+        scopeArsenal = 2;
+        displayName = "Airsoft replica (lethal) HK416 (Sand)";
+        class TransportWeapons
+        {
+            class rof_weap_airsoft_hk416_snd
+            {
+                weapon = "rof_weap_airsoft_hk416_snd";
                 count = 1;
             };
         };
