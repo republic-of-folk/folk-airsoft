@@ -76,5 +76,50 @@
         <Key ID="STR_rof_weapons_airsoft_core_rof_300rnd_6mm_lethal_airsoft_p900">
             <English>6mm airsoft (lethal) 300rnd P90 magazine</English>
         </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_30rnd_6mm_bb_airsoft_stanag0">
+            <English>6mm airsoft 30rnd STANAG magazine</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_30rnd_6mm_bb_airsoft_stanag1">
+            <English>Real-capacity STANAG magazine airsoft replica</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_30rnd_6mm_bb_airsoft_stanag_snd0">
+            <English>6mm airsoft 30rnd STANAG magazine (Sand)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_100rnd_6mm_bb_airsoft_stanag0">
+            <English>6mm airsoft 100rnd STANAG magazine</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_100rnd_6mm_bb_airsoft_stanag1">
+            <English>Mid-capacity STANAG magazine airsoft replica</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_100rnd_6mm_bb_airsoft_stanag_snd0">
+            <English>6mm airsoft 100rnd STANAG magazine (Sand)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_300rnd_6mm_bb_airsoft_stanag0">
+            <English>6mm airsoft 300rnd STANAG magazine</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_300rnd_6mm_bb_airsoft_stanag1">
+            <English>High-capacity STANAG magazine airsoft replica</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_300rnd_6mm_bb_airsoft_stanag_snd0">
+            <English>6mm airsoft 300rnd STANAG magazine (Sand)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_30rnd_6mm_lethal_airsoft_stanag0">
+            <English>6mm airsoft (lethal) 30rnd STANAG magazine</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_30rnd_6mm_lethal_airsoft_stanag_snd0">
+            <English>6mm airsoft (lethal) 30rnd STANAG magazine (Sand)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_100rnd_6mm_lethal_airsoft_stanag0">
+            <English>6mm airsoft (lethal) 100rnd STANAG magazine</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_100rnd_6mm_lethal_airsoft_stanag_snd0">
+            <English>6mm airsoft (lethal) 100rnd STANAG magazine (Sand)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_300rnd_6mm_lethal_airsoft_stanag0">
+            <English>6mm airsoft (lethal) 300rnd STANAG magazine</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_300rnd_6mm_lethal_airsoft_stanag_snd0">
+            <English></English>
+        </Key>
     </Package>
 </Project>
