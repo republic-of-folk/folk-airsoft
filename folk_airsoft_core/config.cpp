@@ -12,6 +12,7 @@ class cfgPatches
             "rof_item_optic_Holosight_blk_asg",
             "rof_item_optic_Holosight_khk_asg",
             "rof_item_optic_Holosight_lush_asg",
+            "rof_item_rof_muzzle_snds",
         };
         weapons[] = {
             "rof_optic_Aco_asg",
@@ -21,6 +22,7 @@ class cfgPatches
             "rof_optic_Holosight_blk_asg",
             "rof_optic_Holosight_khk_asg",
             "rof_optic_Holosight_lush_asg",
+            "rof_muzzle_snds",
         };
         magazines[] = {
             "rof_16rnd_6mm_bb_airsoft_mag",

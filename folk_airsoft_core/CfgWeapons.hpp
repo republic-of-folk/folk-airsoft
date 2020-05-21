@@ -1,7 +1,31 @@
 class CfgWeapons
 {
     class ItemCore;
-    class InventoryOpticsItem_Base_F;    
+    class InventoryOpticsItem_Base_F;
+    class InventoryMuzzleItem_Base_F;
+    
+    class muzzle_snds_H : ItemCore {
+        class ItemInfo: InventoryMuzzleItem_Base_F {};
+    };
+    class muzzle_snds_L : muzzle_snds_H
+    {
+        class ItemInfo: ItemInfo
+        {
+            class MagazineCoef;
+            class AmmoCoef;
+            class MuzzleCoef;
+        };
+    };
+
+    // Sound Suppressors, Decorative :)
+    class rof_muzzle_snds : muzzle_snds_L
+    {
+        displayName = "$STR_rof_weapons_airsoft_core_rof_muzzle_snds0";
+        descriptionShort = "$STR_rof_weapons_airsoft_core_rof_muzzle_snds1";
+        audibleFire = 30;
+        visibleFire = 3;
+        visibleFireTime = 2;
+    };
 
     // ACO
     class rof_optic_Aco_asg: ItemCore

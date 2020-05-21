@@ -129,7 +129,7 @@ class cfgWeapons
         {
             class MuzzleSlot : MuzzleSlot
             {
-                compatibleItems[] = {};
+                compatibleItems[] = {"rof_muzzle_snds"};
             };
         };
     };

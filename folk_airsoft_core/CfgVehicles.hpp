@@ -2,6 +2,26 @@ class CfgVehicles
 {
     class Item_Base_F;
 
+    // Sound Suppressors, decorative
+    class rof_item_rof_muzzle_snds : Item_Base_F
+    {
+        scope = 2;
+        scopeCurator = 2;
+        author = "$STR_rof_weapons_airsoft_core_Author";
+        editorCategory = "EdCat_WeaponAttachments";
+        editorSubcategory = "EdSubcat_FrontSlot";
+        vehicleClass = "WeaponAccessories";
+        displayName = "$STR_rof_weapons_airsoft_core_rof_muzzle_snds0";
+        class TransportItems
+        {
+            class rof_muzzle_snds
+            {
+                name = "rof_muzzle_snds";
+                count = 1;
+            };
+        };
+    };
+
     // Scopes, ACO
     class rof_item_optic_Aco_asg_base : Item_Base_F
     {

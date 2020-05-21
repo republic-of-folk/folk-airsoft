@@ -28,9 +28,9 @@ class CfgWeapons
         recoil = "rof_recoil_aeg";
 
         class WeaponSlotsInfo : WeaponSlotsInfo {
-            // class MuzzleSlot : MuzzleSlot {
-            //     compatibleItems[] = {};
-            // };
+            class MuzzleSlot : MuzzleSlot {
+                compatibleItems[] = {"rof_muzzle_snds"};
+            };
             class CowsSlot : rof_weapons_airsoft_OpticRail {};
             // class PointerSlot : PointerSlot {};
             // class UnderBarrelSlot : UnderBarrelSlot {};

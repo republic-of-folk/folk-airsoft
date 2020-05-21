@@ -10,6 +10,12 @@
         <Key ID="STR_rof_weapons_airsoft_core_BB_Lethal_Shortname">
             <English>6mm lethal</English>
         </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_muzzle_snds0">
+            <English>Sound Suppressor, Airsoft</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_muzzle_snds1">
+            <English>Airsoft replica of a sound suppressor, decorative</English>
+        </Key>
         <Key ID="STR_rof_weapons_airsoft_core_optic_Aco_asg0">
             <English>ACO (Red), Airsoft</English>
         </Key>
