@@ -4,6 +4,7 @@ class CfgMagazines
     class 50Rnd_570x28_SMG_03;
     class 30Rnd_556x45_Stanag;
 
+    // Pistol
     class rof_16rnd_6mm_bb_airsoft_mag : 16Rnd_9x21_Mag
     {
         author = "Bohemia Interactive / Republic of Folk";
@@ -22,6 +23,7 @@ class CfgMagazines
         ammo = "rof_B_6mm_020g_lethal";
     };
 
+    // P90
     class rof_50rnd_6mm_bb_airsoft_p90 : 50Rnd_570x28_SMG_03
     {
         author = "Bohemia Interactive / Republic of Folk";
@@ -64,6 +66,7 @@ class CfgMagazines
         ammo = "rof_B_6mm_020g_lethal";
     };
 
+    // STANAG
     class rof_30rnd_6mm_bb_airsoft_stanag : 30Rnd_556x45_Stanag
     {
         author = "Bohemia Interactive / Republic of Folk";
