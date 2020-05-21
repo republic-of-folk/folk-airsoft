@@ -54,8 +54,8 @@ class cfgWeapons
         author = "Bohemia Interactive / Republic of Folk";
         displayName = "Replica P99";
         descriptionShort = "Gas blowback airsoft replica of P99 pistol";
-        magazines[] = {"rof_16rnd_6mm_bb_airsoft_mag", "rof_16rnd_6mm_lethal_airsoft_mag"};
-        magazineWell[] = {};
+        magazines[] = {"rof_16rnd_6mm_bb_airsoft_mag"};
+        magazineWell[] = {"rof_weapons_airsoft_p99"};
         baseWeapon = "rof_weap_airsoft_p99";
         discreteDistance[] = {25};
         maxZeroing = 25;
