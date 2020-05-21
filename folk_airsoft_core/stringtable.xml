@@ -4,6 +4,12 @@
         <Key ID="STR_rof_weapons_airsoft_core_Author">
             <English>Bohemia Interactive / Republic of Folk</English>
         </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_BB_Shortname">
+            <English>6mm BB</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_BB_Lethal_Shortname">
+            <English>6mm lethal</English>
+        </Key>
         <Key ID="STR_rof_weapons_airsoft_core_optic_Aco_asg0">
             <English>ACO (Red), Airsoft</English>
         </Key>

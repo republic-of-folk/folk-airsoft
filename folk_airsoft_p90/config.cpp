@@ -1,6 +1,4 @@
 #define _ARMA_
-#define ROF_AIRSOFT_BB_SHORTNAME "6mm BB"
-#define ROF_AIRSOFT_LETHAL_SHORTNAME "6mm lethal"
 
 class cfgPatches
 {
