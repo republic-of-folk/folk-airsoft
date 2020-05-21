@@ -5,24 +5,24 @@ class cfgPatches
     class rof_weapons_airsoft_core
     {
         units[] = {
-            "rof_item_optic_Aco_asg",
-            "rof_item_optic_ACO_grn_asg",
-            "rof_item_optic_Holosight_asg",
-            "rof_item_optic_Holosight_arid_asg",
-            "rof_item_optic_Holosight_blk_asg",
-            "rof_item_optic_Holosight_khk_asg",
-            "rof_item_optic_Holosight_lush_asg",
-            "rof_item_rof_muzzle_snds",
+            "rof_item_optic_airsoft_Aco_asg",
+            "rof_item_optic_airsoft_ACO_grn_asg",
+            "rof_item_optic_airsoft_Holosight_asg",
+            "rof_item_optic_airsoft_Holosight_arid_asg",
+            "rof_item_optic_airsoft_Holosight_blk_asg",
+            "rof_item_optic_airsoft_Holosight_khk_asg",
+            "rof_item_optic_airsoft_Holosight_lush_asg",
+            "rof_item_rof_muzzle_airsoft_snds",
         };
         weapons[] = {
-            "rof_optic_Aco_asg",
-            "rof_optic_ACO_grn_asg",
-            "rof_optic_Holosight_asg",
-            "rof_optic_Holosight_arid_asg",
-            "rof_optic_Holosight_blk_asg",
-            "rof_optic_Holosight_khk_asg",
-            "rof_optic_Holosight_lush_asg",
-            "rof_muzzle_snds",
+            "rof_optic_airsoft_Aco_asg",
+            "rof_optic_airsoft_ACO_grn_asg",
+            "rof_optic_airsoft_Holosight_asg",
+            "rof_optic_airsoft_Holosight_arid_asg",
+            "rof_optic_airsoft_Holosight_blk_asg",
+            "rof_optic_airsoft_Holosight_khk_asg",
+            "rof_optic_airsoft_Holosight_lush_asg",
+            "rof_muzzle_airsoft_snds",
         };
         magazines[] = {
             "rof_16rnd_6mm_bb_airsoft_mag",

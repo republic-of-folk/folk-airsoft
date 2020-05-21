@@ -18,17 +18,17 @@ class CfgWeapons
     };
 
     // Sound Suppressors, Decorative :)
-    class rof_muzzle_snds : muzzle_snds_L
+    class rof_muzzle_airsoft_snds : muzzle_snds_L
     {
-        displayName = "$STR_rof_weapons_airsoft_core_rof_muzzle_snds0";
-        descriptionShort = "$STR_rof_weapons_airsoft_core_rof_muzzle_snds1";
+        displayName = "$STR_rof_weapons_airsoft_core_rof_muzzle_airsoft_snds0";
+        descriptionShort = "$STR_rof_weapons_airsoft_core_rof_muzzle_airsoft_snds1";
         audibleFire = 30;
         visibleFire = 3;
         visibleFireTime = 2;
     };
 
     // ACO
-    class rof_optic_Aco_asg: ItemCore
+    class rof_optic_airsoft_Aco_asg: ItemCore
     {
         author = "$STR_rof_weapons_airsoft_core_Author";
         scope = 2;
@@ -64,7 +64,7 @@ class CfgWeapons
         };
         inertia = 0;
     };
-    class rof_optic_ACO_grn_asg: rof_optic_Aco_asg
+    class rof_optic_airsoft_ACO_grn_asg: rof_optic_airsoft_Aco_asg
     {
         displayName = "$STR_rof_weapons_airsoft_core_optic_ACO_grn_asg0";
         picture = "\a3\Weapons_F\acc\Data\UI\icon_optic_ACO_grn_smg_ca.paa";
@@ -72,12 +72,12 @@ class CfgWeapons
     };
 
     // Holosight
-    class rof_optic_Holosight_asg : ItemCore
+    class rof_optic_airsoft_Holosight_asg : ItemCore
     {
         scope = 2;
         author = "$STR_rof_weapons_airsoft_core_Author";
-        displayName = "$STR_rof_weapons_airsoft_core_rof_optic_Holosight_asg0";
-        descriptionShort = "$STR_rof_weapons_airsoft_core_rof_optic_Holosight_asg1";
+        displayName = "$STR_rof_weapons_airsoft_core_rof_optic_airsoft_Holosight_asg0";
+        descriptionShort = "$STR_rof_weapons_airsoft_core_rof_optic_airsoft_Holosight_asg1";
         picture = "\a3\Weapons_F\acc\Data\UI\icon_optic_Holosight_smg_ca.paa";
         model = "\A3\weapons_f\acc\acco_EOTxps3_smg_F";
         weaponInfoType = "RscWeaponZeroing";
@@ -108,23 +108,23 @@ class CfgWeapons
         };
         inertia = 0;
     };
-    class rof_optic_Holosight_arid_asg : rof_optic_Holosight_asg {
-        displayName = "$STR_rof_weapons_airsoft_core_rof_optic_Holosight_arid_asg0";
+    class rof_optic_airsoft_Holosight_arid_asg : rof_optic_airsoft_Holosight_asg {
+        displayName = "$STR_rof_weapons_airsoft_core_rof_optic_airsoft_Holosight_arid_asg0";
         model = "\A3\Weapons_F\Acc\acco_holosight_arid_F.p3d";
         picture = "\a3\Weapons_F_Enoch\Acc\Data\UI\icon_optic_Holosight_arid_F_ca.paa";
     };
-    class rof_optic_Holosight_blk_asg : rof_optic_Holosight_asg {
-        displayName = "$STR_rof_weapons_airsoft_core_rof_optic_Holosight_blk_asg0";
+    class rof_optic_airsoft_Holosight_blk_asg : rof_optic_airsoft_Holosight_asg {
+        displayName = "$STR_rof_weapons_airsoft_core_rof_optic_airsoft_Holosight_blk_asg0";
         model = "\A3\Weapons_F\Acc\acco_holosight_blk_F.p3d";
         picture = "\a3\Weapons_F_Exp\Acc\Data\UI\icon_optic_Holosight_blk_F_ca.paa";
     };
-    class rof_optic_Holosight_khk_asg : rof_optic_Holosight_asg {
-        displayName = "$STR_rof_weapons_airsoft_core_rof_optic_Holosight_khk_asg0";
+    class rof_optic_airsoft_Holosight_khk_asg : rof_optic_airsoft_Holosight_asg {
+        displayName = "$STR_rof_weapons_airsoft_core_rof_optic_airsoft_Holosight_khk_asg0";
         model = "\A3\Weapons_F\Acc\acco_holosight_khk_F.p3d";
         picture = "\a3\Weapons_F_Exp\Acc\Data\UI\icon_optic_Holosight_khk_F_ca.paa";
     };
-    class rof_optic_Holosight_lush_asg : rof_optic_Holosight_asg {
-        displayName = "$STR_rof_weapons_airsoft_core_rof_optic_Holosight_lush_asg0";
+    class rof_optic_airsoft_Holosight_lush_asg : rof_optic_airsoft_Holosight_asg {
+        displayName = "$STR_rof_weapons_airsoft_core_rof_optic_airsoft_Holosight_lush_asg0";
         model = "\A3\Weapons_F\Acc\acco_holosight_lush_F.p3d";
         picture = "\a3\Weapons_F_Enoch\Acc\Data\UI\icon_optic_Holosight_lush_F_ca.paa";
     };

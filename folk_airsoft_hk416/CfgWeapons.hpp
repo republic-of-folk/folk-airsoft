@@ -29,7 +29,7 @@ class CfgWeapons
 
         class WeaponSlotsInfo : WeaponSlotsInfo {
             class MuzzleSlot : MuzzleSlot {
-                compatibleItems[] = {"rof_muzzle_snds"};
+                compatibleItems[] = {"rof_muzzle_airsoft_snds"};
             };
             class CowsSlot : rof_weapons_airsoft_OpticRail {};
             // class PointerSlot : PointerSlot {};

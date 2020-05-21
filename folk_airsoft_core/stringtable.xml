@@ -10,10 +10,10 @@
         <Key ID="STR_rof_weapons_airsoft_core_BB_Lethal_Shortname">
             <English>6mm lethal</English>
         </Key>
-        <Key ID="STR_rof_weapons_airsoft_core_rof_muzzle_snds0">
+        <Key ID="STR_rof_weapons_airsoft_core_rof_muzzle_airsoft_snds0">
             <English>Sound Suppressor, Airsoft</English>
         </Key>
-        <Key ID="STR_rof_weapons_airsoft_core_rof_muzzle_snds1">
+        <Key ID="STR_rof_weapons_airsoft_core_rof_muzzle_airsoft_snds1">
             <English>Airsoft replica of a sound suppressor, decorative</English>
         </Key>
         <Key ID="STR_rof_weapons_airsoft_core_optic_Aco_asg0">
@@ -25,22 +25,22 @@
         <Key ID="STR_rof_weapons_airsoft_core_optic_ACO_grn_asg0">
             <English>ACO (Green), Airsoft</English>
         </Key>
-        <Key ID="STR_rof_weapons_airsoft_core_rof_optic_Holosight_asg0">
+        <Key ID="STR_rof_weapons_airsoft_core_rof_optic_airsoft_Holosight_asg0">
             <English>Holosight (Sand), Airsoft</English>
         </Key>
-        <Key ID="STR_rof_weapons_airsoft_core_rof_optic_Holosight_asg1">
+        <Key ID="STR_rof_weapons_airsoft_core_rof_optic_airsoft_Holosight_asg1">
             <English>Airsoft replica of holographic optic</English>
         </Key>
-        <Key ID="STR_rof_weapons_airsoft_core_rof_optic_Holosight_arid_asg0">
+        <Key ID="STR_rof_weapons_airsoft_core_rof_optic_airsoft_Holosight_arid_asg0">
             <English>Holosight (Arid), Airsoft</English>
         </Key>
-        <Key ID="STR_rof_weapons_airsoft_core_rof_optic_Holosight_blk_asg0">
+        <Key ID="STR_rof_weapons_airsoft_core_rof_optic_airsoft_Holosight_blk_asg0">
             <English>Holosight (Black), Airsoft</English>
         </Key>
-        <Key ID="STR_rof_weapons_airsoft_core_rof_optic_Holosight_khk_asg0">
+        <Key ID="STR_rof_weapons_airsoft_core_rof_optic_airsoft_Holosight_khk_asg0">
             <English>Holosight (Khaki), Airsoft</English>
         </Key>
-        <Key ID="STR_rof_weapons_airsoft_core_rof_optic_Holosight_lush_asg0">
+        <Key ID="STR_rof_weapons_airsoft_core_rof_optic_airsoft_Holosight_lush_asg0">
             <English>Holosight (Lush), Airsoft</English>
         </Key>
         <Key ID="STR_rof_weapons_airsoft_core_rof_16rnd_6mm_bb_airsoft_mag0">
