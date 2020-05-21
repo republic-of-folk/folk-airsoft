@@ -23,11 +23,21 @@ class cfgPatches
 	};
 };
 
+class rof_weapons_airsoft_OpticRail;
+
 class cfgWeapons
 {
-    class Rifle_Base_F;
-    class arifle_SPAR_01_base_F : Rifle_Base_F {
+    class Rifle;
+    class Rifle_Base_F : Rifle {
         class WeaponSlotsInfo;
+    };
+    class arifle_SPAR_01_base_F : Rifle_Base_F {
+        class WeaponSlotsInfo : WeaponSlotsInfo {
+            class MuzzleSlot;
+            class CowsSlot;
+            class PointerSlot;
+            class UnderBarrelSlot;
+        };
         class Single;
         class FullAuto;
     };
@@ -53,7 +63,7 @@ class cfgWeapons
             // class MuzzleSlot : MuzzleSlot {
             //     compatibleItems[] = {};
             // };
-            // class CowsSlot : CowsSlot {};
+            class CowsSlot : rof_weapons_airsoft_OpticRail {};
             // class PointerSlot : PointerSlot {};
             // class UnderBarrelSlot : UnderBarrelSlot {};
         };
