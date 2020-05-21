@@ -19,19 +19,12 @@ class CfgWeapons
     class rof_weap_airsoft_hk416_base : arifle_SPAR_01_base_F {
         author = "$STR_rof_weapons_airsoft_hk416_Author";
         descriptionShort = "$STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_base0";
-        magazines[] = {
-            "rof_30rnd_6mm_bb_airsoft_stanag",
-            "rof_100rnd_6mm_bb_airsoft_stanag",
-            "rof_300rnd_6mm_bb_airsoft_stanag",
-            "rof_30rnd_6mm_lethal_airsoft_stanag",
-            "rof_100rnd_6mm_lethal_airsoft_stanag",
-            "rof_300rnd_6mm_lethal_airsoft_stanag",
-        };
+        magazines[] = {"rof_30rnd_6mm_bb_airsoft_stanag"};
         discreteDistance[] = {25};
         maxZeroing = 25;
         initSpeed = 107; // 350fps
         modes[] = {"Single", "FullAuto"};
-        magazineWell[] = {};
+        magazineWell[] = {"rof_weapons_airsoft_stanag"};
         recoil = "rof_recoil_aeg";
 
         class WeaponSlotsInfo : WeaponSlotsInfo {
@@ -93,5 +86,6 @@ class CfgWeapons
         baseWeapon = "rof_weap_airsoft_hk416_snd";
         picture = "\A3\Weapons_F_Exp\Rifles\SPAR_01\Data\UI\arifle_SPAR_01_snd_F_X_CA.paa";
         hiddenSelectionsTextures[] = {"\A3\Weapons_F_Exp\Rifles\SPAR_01\Data\arifle_SPAR_01_snd_F_01_co.paa","\A3\Weapons_F_Exp\Rifles\SPAR_01\Data\arifle_SPAR_01_snd_F_02_co.paa"};        
+        magazines[] = {"rof_30rnd_6mm_bb_airsoft_stanag_snd"};
     };
 };
