@@ -74,7 +74,7 @@ class CfgVehicles
         scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-        displayName = "STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_snd0";
+        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_snd0";
         class TransportWeapons
         {
             class rof_weap_airsoft_hk416_snd
