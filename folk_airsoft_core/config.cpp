@@ -62,6 +62,8 @@ class cfgPatches
 
 #include "CfgMagazines.hpp"
 
+#include "CfgMagazineWells.hpp"
+
 #include "CfgWeapons.hpp"
 
 #include "CfgVehicles.hpp"
