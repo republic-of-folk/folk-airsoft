@@ -21,6 +21,9 @@ class CfgAmmo
         nvgOnly = 0;
 
         audibleFire = 30;
+        visibleFire = 3;
+        visibleFireTime = 2;
+        
         aiAmmoUsageFlags = 64;
         dangerRadiusBulletClose = 4;
         dangerRadiusHit = 8;
