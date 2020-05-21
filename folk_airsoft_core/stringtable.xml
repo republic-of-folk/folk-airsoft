@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="rof_weapons_airsoft">
+    <Package name="core">
+        <Key ID="STR_rof_weapons_airsoft_core_Author">
+            <English>Bohemia Interactive / Republic of Folk</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_optic_Aco_asg0">
+            <English>ACO Airsoft (Red)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_optic_Aco_asg1">
+            <English>Airsoft replica of ACO optic</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_optic_ACO_grn_asg0">
+            <English>ACO Airsoft (Green)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_optic_ACO_grn_asg1">
+            <English>Airsoft replica of ACO optic</English>
+        </Key>
+        <!-- <Key ID="STR_rof_weapons_airsoft_core_">
+            <English></English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_">
+            <English></English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_">
+            <English></English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_">
+            <English></English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_">
+            <English></English>
+        </Key> -->
+    </Package>
+</Project>

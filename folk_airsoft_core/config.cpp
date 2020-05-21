@@ -6,8 +6,14 @@ class cfgPatches
 {
     class rof_weapons_airsoft_core
     {
-        units[] = {};
-        weapons[] = {};
+        units[] = {
+            "rof_item_optic_Aco_asg",
+            "rof_item_optic_ACO_grn_asg",
+        };
+        weapons[] = {
+            "rof_optic_Aco_asg",
+            "rof_optic_ACO_grn_asg",
+        };
         magazines[] = {
             "rof_16rnd_6mm_bb_airsoft_mag",
             "rof_16rnd_6mm_lethal_airsoft_mag",
@@ -26,16 +32,30 @@ class cfgPatches
         };
         requiredversion = 1.94;
         requiredaddons[] = {
-            "A3_Weapons_F",
             "A3_Data_F_Enoch_Loadorder",
+            "cba_main",
         };
         version = "1.0.1";
         author = "Boberro (Republic of Folk)";
     };
 };
 
-#include "CfgRecoils"
+class asdg_OpticRail;   // External class reference
+class rof_weapons_airsoft_OpticRail: asdg_OpticRail 
+{
+    class compatibleItems 
+    {
+        rof_optic_Aco_asg = 1;
+        rof_optic_ACO_grn_asg = 1;
+    };
+};
 
-#include "CfgAmmo"
+#include "CfgRecoils.hpp"
 
-#include "CfgMagazines"
+#include "CfgAmmo.hpp"
+
+#include "CfgMagazines.hpp"
+
+#include "CfgWeapons.hpp"
+
+#include "CfgVehicles.hpp"
