@@ -109,12 +109,12 @@ class cfgWeapons
         author = "Bohemia Interactive / Republic of Folk";
         displayName = "Replica P90 (Black)";
         descriptionShort = "Most popular beginners' airsoft SMG";
-        magazines[] = {"rof_50rnd_6mm_bb_airsoft_p90", "rof_100rnd_6mm_bb_airsoft_p90", "rof_300rnd_6mm_bb_airsoft_p90", "rof_50rnd_6mm_lethal_airsoft_p90", "rof_100rnd_6mm_lethal_airsoft_p90", "rof_300rnd_6mm_lethal_airsoft_p90"};
+        magazines[] = {"rof_50rnd_6mm_bb_airsoft_p90"};
         discreteDistance[] = {25};
         maxZeroing = 25;
         initSpeed = 107; // 350fps
         modes[] = {"Single", "FullAuto"};
-        magazineWell[] = {};
+        magazineWell[] = {"rof_weapons_airsoft_p90"};
         recoil = "rof_recoil_aeg";
         baseWeapon = "rof_weap_airsoft_p90_black";
 
