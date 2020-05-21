@@ -11,7 +11,7 @@ class cfgPatches
             "rof_weapon_lethal_airsoft_hk416_black",
         };
 		weapons[] = {
-            "rof_weap_airsoft_hk416_black",
+            "rof_weap_airsoft_hk416_blk",
         };
 		requiredversion = 1.94;
 		requiredaddons[] = {
@@ -97,10 +97,10 @@ class cfgWeapons
             };
         };
     };
-    class rof_weap_airsoft_hk416_black : rof_weap_airsoft_hk416_base {
+    class rof_weap_airsoft_hk416_blk : rof_weap_airsoft_hk416_base {
         scope = 2;
         displayName = "Replica HK416 (Black)";
-        baseWeapon = "rof_weap_airsoft_hk416_black";
+        baseWeapon = "rof_weap_airsoft_hk416_blk";
         picture = "\A3\Weapons_F_Exp\Rifles\SPAR_01\Data\UI\arifle_SPAR_01_blk_F_X_CA.paa";
         hiddenSelectionsTextures[] = {"\A3\Weapons_F_Exp\Rifles\SPAR_01\Data\arifle_SPAR_01_blk_F_01_co.paa","\A3\Weapons_F_Exp\Rifles\SPAR_01\Data\arifle_SPAR_01_blk_F_02_co.paa"};
     };
@@ -168,9 +168,9 @@ class cfgVehicles
         displayName = "Airsoft replica HK416 (Black)";
         class TransportWeapons
         {
-            class rof_weap_airsoft_hk416_black
+            class rof_weap_airsoft_hk416_blk
             {
-                weapon = "rof_weap_airsoft_hk416_black";
+                weapon = "rof_weap_airsoft_hk416_blk";
                 count = 1;
             };
         };
@@ -183,9 +183,9 @@ class cfgVehicles
         displayName = "Airsoft replica (lethal) HK416 (Black)";
         class TransportWeapons
         {
-            class rof_weap_airsoft_hk416_black
+            class rof_weap_airsoft_hk416_blk
             {
-                weapon = "rof_weap_airsoft_hk416_black";
+                weapon = "rof_weap_airsoft_hk416_blk";
                 count = 1;
             };
         };
