@@ -32,11 +32,17 @@ class cfgPatches
             "rof_100rnd_6mm_lethal_airsoft_p90",
             "rof_300rnd_6mm_lethal_airsoft_p90",
             "rof_30rnd_6mm_bb_airsoft_stanag",
+            "rof_30rnd_6mm_bb_airsoft_stanag_snd",
             "rof_100rnd_6mm_bb_airsoft_stanag",
+            "rof_100rnd_6mm_bb_airsoft_stanag_snd",
             "rof_300rnd_6mm_bb_airsoft_stanag",
+            "rof_300rnd_6mm_bb_airsoft_stanag_snd",
             "rof_30rnd_6mm_lethal_airsoft_stanag",
+            "rof_30rnd_6mm_lethal_airsoft_stanag_snd",
             "rof_100rnd_6mm_lethal_airsoft_stanag",
+            "rof_100rnd_6mm_lethal_airsoft_stanag_snd",
             "rof_300rnd_6mm_lethal_airsoft_stanag",
+            "rof_300rnd_6mm_lethal_airsoft_stanag_snd",
         };
         requiredversion = 1.94;
         requiredaddons[] = {
