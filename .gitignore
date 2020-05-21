@@ -1,5 +1,6 @@
 /.vscode/
 /.idea/
 /.private/
+/ignoreme/
 /*.zip
 /*.tmp
