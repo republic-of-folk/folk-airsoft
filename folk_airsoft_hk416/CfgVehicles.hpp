@@ -7,7 +7,7 @@ class CfgVehicles
         scope = 0;
         scopeCurator = 0;
         scopeArsenal = 0;
-        author = "Bohemia Interactive / Republic of Folk";
+        author = "$STR_rof_weapons_airsoft_hk416_Author";
         editorCategory = "EdCat_Weapons";
         editorSubcategory = "EdSubcat_AssaultRifles";
         vehicleClass = "WeaponsPrimary";
@@ -25,7 +25,7 @@ class CfgVehicles
         scope = 0;
         scopeCurator = 0;
         scopeArsenal = 0;
-        author = "Bohemia Interactive / Republic of Folk";
+        author = "$STR_rof_weapons_airsoft_hk416_Author";
         editorCategory = "EdCat_Weapons";
         editorSubcategory = "EdSubcat_AssaultRifles";
         vehicleClass = "WeaponsPrimary";
@@ -44,7 +44,7 @@ class CfgVehicles
         scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-        displayName = "Airsoft replica HK416 (Black)";
+        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_blk0";
         class TransportWeapons
         {
             class rof_weap_airsoft_hk416_blk
@@ -59,7 +59,7 @@ class CfgVehicles
         scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-        displayName = "Airsoft replica HK416 (Khaki)";
+        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_khk0";
         class TransportWeapons
         {
             class rof_weap_airsoft_hk416_khk
@@ -74,7 +74,7 @@ class CfgVehicles
         scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-        displayName = "Airsoft replica HK416 (Sand)";
+        displayName = "STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_snd0";
         class TransportWeapons
         {
             class rof_weap_airsoft_hk416_snd
@@ -90,7 +90,7 @@ class CfgVehicles
         scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-        displayName = "Airsoft replica (lethal) HK416 (Black)";
+        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_lethal_blk0";
         class TransportWeapons
         {
             class rof_weap_airsoft_hk416_blk
@@ -105,7 +105,7 @@ class CfgVehicles
         scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-        displayName = "Airsoft replica (lethal) HK416 (Khaki)";
+        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_lethal_khk0";
         class TransportWeapons
         {
             class rof_weap_airsoft_hk416_khk
@@ -120,7 +120,7 @@ class CfgVehicles
         scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-        displayName = "Airsoft replica (lethal) HK416 (Sand)";
+        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_lethal_snd0";
         class TransportWeapons
         {
             class rof_weap_airsoft_hk416_snd

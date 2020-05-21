@@ -17,8 +17,8 @@ class CfgWeapons
         class FullAuto;
     };
     class rof_weap_airsoft_hk416_base : arifle_SPAR_01_base_F {
-        author = "Bohemia Interactive / Republic of Folk";
-        descriptionShort = "Airsoft assault rifle for all your tacticool needs";
+        author = "$STR_rof_weapons_airsoft_hk416_Author";
+        descriptionShort = "$STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_base0";
         magazines[] = {
             "rof_30rnd_6mm_bb_airsoft_stanag",
             "rof_100rnd_6mm_bb_airsoft_stanag",
@@ -72,23 +72,24 @@ class CfgWeapons
             };
         };
     };
+    
     class rof_weap_airsoft_hk416_blk : rof_weap_airsoft_hk416_base {
         scope = 2;
-        displayName = "Replica HK416 (Black)";
+        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_blk0";
         baseWeapon = "rof_weap_airsoft_hk416_blk";
         picture = "\A3\Weapons_F_Exp\Rifles\SPAR_01\Data\UI\arifle_SPAR_01_blk_F_X_CA.paa";
         hiddenSelectionsTextures[] = {"\A3\Weapons_F_Exp\Rifles\SPAR_01\Data\arifle_SPAR_01_blk_F_01_co.paa","\A3\Weapons_F_Exp\Rifles\SPAR_01\Data\arifle_SPAR_01_blk_F_02_co.paa"};
     };
     class rof_weap_airsoft_hk416_khk : rof_weap_airsoft_hk416_base {
         scope = 2;
-        displayName = "Replica HK416 (Khaki)";
+        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_khk0";
         baseWeapon = "rof_weap_airsoft_hk416_khk";
         picture = "\A3\Weapons_F_Exp\Rifles\SPAR_01\Data\UI\arifle_SPAR_01_khk_F_X_CA.paa";
         hiddenSelectionsTextures[] = {"\A3\Weapons_F_Exp\Rifles\SPAR_01\Data\arifle_SPAR_01_khk_F_01_co.paa","\A3\Weapons_F_Exp\Rifles\SPAR_01\Data\arifle_SPAR_01_khk_F_02_co.paa"};
     };
     class rof_weap_airsoft_hk416_snd : rof_weap_airsoft_hk416_base {
         scope = 2;
-        displayName = "Replica HK416 (Sand)";
+        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_snd0";
         baseWeapon = "rof_weap_airsoft_hk416_snd";
         picture = "\A3\Weapons_F_Exp\Rifles\SPAR_01\Data\UI\arifle_SPAR_01_snd_F_X_CA.paa";
         hiddenSelectionsTextures[] = {"\A3\Weapons_F_Exp\Rifles\SPAR_01\Data\arifle_SPAR_01_snd_F_01_co.paa","\A3\Weapons_F_Exp\Rifles\SPAR_01\Data\arifle_SPAR_01_snd_F_02_co.paa"};        

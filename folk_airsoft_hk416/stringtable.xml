@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="rof_weapons_airsoft">
+    <Package name="hk416">
+        <Key ID="STR_rof_weapons_airsoft_hk416_Author">
+            <English>Bohemia Interactive / Republic of Folk</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_base0">
+            <English>Airsoft assault rifle for all your tacticool needs</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_blk0">
+            <English>Replica HK416 (Black)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_khk0">
+            <English>Replica HK416 (Khaki)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_snd0">
+            <English>Replica HK416 (Sand)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_lethal_blk0">
+            <English>Replica HK416 (Black)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_lethal_khk0">
+            <English>Replica HK416 (Khaki)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_lethal_snd0">
+            <English>Replica HK416 (Sand)</English>
+        </Key>
+    </Package>
+</Project>
