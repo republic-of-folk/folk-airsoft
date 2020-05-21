@@ -9,10 +9,20 @@ class cfgPatches
         units[] = {
             "rof_item_optic_Aco_asg",
             "rof_item_optic_ACO_grn_asg",
+            "rof_item_optic_Holosight_asg",
+            "rof_item_optic_Holosight_arid_asg",
+            "rof_item_optic_Holosight_blk_asg",
+            "rof_item_optic_Holosight_khk_asg",
+            "rof_item_optic_Holosight_lush_asg",
         };
         weapons[] = {
             "rof_optic_Aco_asg",
             "rof_optic_ACO_grn_asg",
+            "rof_optic_Holosight_asg",
+            "rof_optic_Holosight_arid_asg",
+            "rof_optic_Holosight_blk_asg",
+            "rof_optic_Holosight_khk_asg",
+            "rof_optic_Holosight_lush_asg",
         };
         magazines[] = {
             "rof_16rnd_6mm_bb_airsoft_mag",
@@ -40,15 +50,7 @@ class cfgPatches
     };
 };
 
-class asdg_OpticRail;   // External class reference
-class rof_weapons_airsoft_OpticRail: asdg_OpticRail 
-{
-    class compatibleItems 
-    {
-        rof_optic_Aco_asg = 1;
-        rof_optic_ACO_grn_asg = 1;
-    };
-};
+#include "CfgRails.hpp"
 
 #include "CfgRecoils.hpp"
 
