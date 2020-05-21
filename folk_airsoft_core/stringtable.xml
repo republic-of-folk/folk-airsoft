@@ -49,5 +49,32 @@
         <Key ID="STR_rof_weapons_airsoft_core_rof_16rnd_6mm_lethal_airsoft_mag1">
             <English>Low-capacity magazine for green gas airsoft replica pistol</English>
         </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_50rnd_6mm_bb_airsoft_p900">
+            <English>6mm airsoft 50rnd P90 magazine</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_50rnd_6mm_bb_airsoft_p901">
+            <English>Real-capacity magazine for airsoft replica of P90</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_100rnd_6mm_bb_airsoft_p900">
+            <English>6mm airsoft 100rnd P90 magazine</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_100rnd_6mm_bb_airsoft_p901">
+            <English>Mid-capacity magazine for airsoft replica of P90</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_300rnd_6mm_bb_airsoft_p900">
+            <English>6mm airsoft 300rnd P90 magazine</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_300rnd_6mm_bb_airsoft_p901">
+            <English>High-capacity magazine for airsoft replica of P90</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_50rnd_6mm_lethal_airsoft_p900">
+            <English>6mm airsoft (lethal) 50rnd P90 magazine</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_100rnd_6mm_lethal_airsoft_p900">
+            <English>6mm airsoft (lethal) 100rnd P90 magazine</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_300rnd_6mm_lethal_airsoft_p900">
+            <English>6mm airsoft (lethal) 300rnd P90 magazine</English>
+        </Key>
     </Package>
 </Project>

@@ -28,41 +28,41 @@ class CfgMagazines
     class rof_50rnd_6mm_bb_airsoft_p90 : 50Rnd_570x28_SMG_03
     {
         author = "$STR_rof_weapons_airsoft_core_Author";
-        displayName = "6mm airsoft 50rnd P90 magazine";
         displaynameshort = "$STR_rof_weapons_airsoft_core_BB_Shortname";
+        displayName = "$STR_rof_weapons_airsoft_core_rof_50rnd_6mm_bb_airsoft_p900";
+        descriptionShort = "$STR_rof_weapons_airsoft_core_rof_50rnd_6mm_bb_airsoft_p901";
         ammo = "rof_B_6mm_020g_bb";
         count = 50;
         initSpeed = 107; // 350fps
         tracersEvery = 1;
-        descriptionShort = "Real-capacity magazine for airsoft replica of P90";
     };
     class rof_100rnd_6mm_bb_airsoft_p90 : rof_50rnd_6mm_bb_airsoft_p90
     {
-        displayName = "6mm airsoft 100rnd P90 magazine";
+        displayName = "$STR_rof_weapons_airsoft_core_rof_100rnd_6mm_bb_airsoft_p900";
+        descriptionShort = "$STR_rof_weapons_airsoft_core_rof_100rnd_6mm_bb_airsoft_p901";
         count = 100;
-        descriptionShort = "Mid-capacity magazine for airsoft replica of P90";
     };
     class rof_300rnd_6mm_bb_airsoft_p90 : rof_50rnd_6mm_bb_airsoft_p90
     {
-        displayName = "6mm airsoft 300rnd P90 magazine";
+        displayName = "$STR_rof_weapons_airsoft_core_rof_300rnd_6mm_bb_airsoft_p900";
+        descriptionShort = "$STR_rof_weapons_airsoft_core_rof_300rnd_6mm_bb_airsoft_p901";
         count = 300;
-        descriptionShort = "High-capacity magazine for airsoft replica of P90";
     };
     class rof_50rnd_6mm_lethal_airsoft_p90 : rof_50rnd_6mm_bb_airsoft_p90
     {
-        displayName = "6mm airsoft (lethal) 50rnd P90 magazine";
+        displayName = "$STR_rof_weapons_airsoft_core_rof_50rnd_6mm_lethal_airsoft_p900";
         displaynameshort = "$STR_rof_weapons_airsoft_core_BB_Lethal_Shortname";
         ammo = "rof_B_6mm_020g_lethal";
     };
     class rof_100rnd_6mm_lethal_airsoft_p90 : rof_100rnd_6mm_bb_airsoft_p90
     {
-        displayName = "6mm airsoft (lethal) 100rnd P90 magazine";
+        displayName = "$STR_rof_weapons_airsoft_core_rof_100rnd_6mm_lethal_airsoft_p900";
         displaynameshort = "$STR_rof_weapons_airsoft_core_BB_Lethal_Shortname";
         ammo = "rof_B_6mm_020g_lethal";
     };
     class rof_300rnd_6mm_lethal_airsoft_p90 : rof_300rnd_6mm_bb_airsoft_p90
     {
-        displayName = "6mm airsoft (lethal) 300rnd P90 magazine";
+        displayName = "$STR_rof_weapons_airsoft_core_rof_300rnd_6mm_lethal_airsoft_p900";
         displaynameshort = "$STR_rof_weapons_airsoft_core_BB_Lethal_Shortname";
         ammo = "rof_B_6mm_020g_lethal";
     };
