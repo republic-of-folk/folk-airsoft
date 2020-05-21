@@ -74,9 +74,9 @@ class cfgWeapons
 
     class rof_weap_airsoft_p90_black : SMG_03_black
     {
-        author = "Bohemia Interactive / Republic of Folk";
-        displayName = "Replica P90 (Black)";
-        descriptionShort = "Most popular beginners' airsoft SMG";
+        author = "$STR_rof_weapons_airsoft_P90_Author";
+        displayName = "$STR_rof_weapons_airsoft_P90_rof_weap_airsoft_p90_black0";
+        descriptionShort = "$STR_rof_weapons_airsoft_P90_rof_weap_airsoft_p90_black1";
         magazines[] = {"rof_50rnd_6mm_bb_airsoft_p90"};
         discreteDistance[] = {25};
         maxZeroing = 25;
@@ -135,7 +135,7 @@ class cfgWeapons
     };
     class rof_weap_airsoft_p90_camo : rof_weap_airsoft_p90_black
     {
-        displayName = "Replica P90 (Camo)";
+        displayName = "$STR_rof_weapons_airsoft_P90_rof_weap_airsoft_p90_camo0";
         picture = "\A3\Weapons_F_Mod\SMGs\SMG_03\data\UI\gear_adr97_camo_ca.paa";
         hiddenSelections[] = {"camo"};
         hiddenSelectionsTextures[] = {"\A3\Weapons_F_Mod\SMGs\SMG_03\data\body_camo_co.paa"};
@@ -143,7 +143,7 @@ class cfgWeapons
     };
     class rof_weap_airsoft_p90_khaki : rof_weap_airsoft_p90_black
     {
-        displayName = "Replica P90 (Khaki)";
+        displayName = "$STR_rof_weapons_airsoft_P90_rof_weap_airsoft_p90_khaki0";
         picture = "\A3\Weapons_F_Mod\SMGs\SMG_03\data\UI\gear_adr97_khaki_ca.paa";
         hiddenSelections[] = {"camo"};
         hiddenSelectionsTextures[] = {"\A3\Weapons_F_Mod\SMGs\SMG_03\data\body_khaki_co.paa"};
@@ -151,7 +151,7 @@ class cfgWeapons
     };
     class rof_weap_airsoft_p90_hex : rof_weap_airsoft_p90_black
     {
-        displayName = "Replica P90 (Hex)";
+        displayName = "$STR_rof_weapons_airsoft_P90_rof_weap_airsoft_p90_hex0";
         picture = "\A3\Weapons_F_Mod\SMGs\SMG_03\data\UI\gear_adr97_hex_ca.paa";
         hiddenSelections[] = {"camo"};
         hiddenSelectionsTextures[] = {"\A3\Weapons_F_Mod\SMGs\SMG_03\data\body_hex_co.paa"};

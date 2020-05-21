@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="rof_weapons_airsoft">
+    <Package name="P99">
+        <Key ID="STR_rof_weapons_airsoft_P99_Author">
+            <English>Bohemia Interactive / Republic of Folk</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_P99_rof_weap_airsoft_p990">
+            <English>Replica P99</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_P99_rof_weap_airsoft_p991">
+            <English>Gas blowback airsoft replica of P99 pistol</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_P99_rof_weapon_airsoft_p990">
+            <English>Airsoft replica P99</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_P99_rof_weapon_lethal_airsoft_p990">
+            <English>Airsoft replica (lethal) P99</English>
+        </Key>
+    </Package>
+</Project>

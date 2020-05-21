@@ -7,7 +7,7 @@ class cfgVehicles
         scope = 0;
         scopeCurator = 0;
         scopeArsenal = 0;
-        author = "Bohemia Interactive / Republic of Folk";
+        author = "$STR_rof_weapons_airsoft_P90_Author";
         editorCategory = "EdCat_Weapons";
         editorSubcategory = "EdSubcat_SubMachineGuns";
         vehicleClass = "WeaponsPrimary";
@@ -25,7 +25,7 @@ class cfgVehicles
         scope = 0;
         scopeCurator = 0;
         scopeArsenal = 0;
-        author = "Bohemia Interactive / Republic of Folk";
+        author = "$STR_rof_weapons_airsoft_P90_Author";
         editorCategory = "EdCat_Weapons";
         editorSubcategory = "EdSubcat_SubMachineGuns";
         vehicleClass = "WeaponsPrimary";
@@ -43,7 +43,7 @@ class cfgVehicles
         scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-        displayName = "Airsoft replica P90 (Black)";
+        displayName = "$STR_rof_weapons_airsoft_P90_rof_weapon_airsoft_p90_black0";
         class TransportWeapons
         {
             class rof_weap_airsoft_p90_black
@@ -58,7 +58,7 @@ class cfgVehicles
         scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-        displayName = "Airsoft replica P90 (Camo)";
+        displayName = "$STR_rof_weapons_airsoft_P90_rof_weapon_airsoft_p90_camo0";
         class TransportWeapons
         {
             class rof_weap_airsoft_p90_camo
@@ -73,7 +73,7 @@ class cfgVehicles
         scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-        displayName = "Airsoft replica P90 (Khaki)";
+        displayName = "$STR_rof_weapons_airsoft_P90_rof_weapon_airsoft_p90_khaki0";
         class TransportWeapons
         {
             class rof_weap_airsoft_p90_khaki
@@ -88,7 +88,7 @@ class cfgVehicles
         scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-        displayName = "Airsoft replica P90 (Hex)";
+        displayName = "$STR_rof_weapons_airsoft_P90_rof_weapon_airsoft_p90_hex0";
         class TransportWeapons
         {
             class rof_weap_airsoft_p90_hex
@@ -103,7 +103,7 @@ class cfgVehicles
         scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-        displayName = "Airsoft replica (lethal) P90 (Black)";
+        displayName = "$STR_rof_weapons_airsoft_P90_rof_weapon_lethal_airsoft_p90_black0";
         class TransportWeapons
         {
             class rof_weap_airsoft_p90_black
@@ -118,7 +118,7 @@ class cfgVehicles
         scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-        displayName = "Airsoft replica (lethal) P90 (Camo)";
+        displayName = "$STR_rof_weapons_airsoft_P90_rof_weapon_lethal_airsoft_p90_camo0";
         class TransportWeapons
         {
             class rof_weap_airsoft_p90_camo
@@ -133,7 +133,7 @@ class cfgVehicles
         scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-        displayName = "Airsoft replica (lethal) P90 (Khaki)";
+        displayName = "$STR_rof_weapons_airsoft_P90_rof_weapon_lethal_airsoft_p90_khaki0";
         class TransportWeapons
         {
             class rof_weap_airsoft_p90_khaki
@@ -148,7 +148,7 @@ class cfgVehicles
         scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-        displayName = "Airsoft replica (lethal) P90 (Hex)";
+        displayName = "$STR_rof_weapons_airsoft_P90_rof_weapon_lethal_airsoft_p90_hex0";
         class TransportWeapons
         {
             class rof_weap_airsoft_p90_hex

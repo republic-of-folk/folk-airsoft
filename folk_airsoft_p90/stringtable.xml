@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="rof_weapons_airsoft">
+    <Package name="P90">
+        <Key ID="STR_rof_weapons_airsoft_P90_Author">
+            <English>Bohemia Interactive / Republic of Folk</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_P90_rof_weap_airsoft_p90_black0">
+            <English>Replica P90 (Black)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_P90_rof_weap_airsoft_p90_black1">
+            <English>Most popular beginners' airsoft SMG</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_P90_rof_weap_airsoft_p90_camo0">
+            <English>Replica P90 (Camo)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_P90_rof_weap_airsoft_p90_khaki0">
+            <English>Replica P90 (Khaki)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_P90_rof_weap_airsoft_p90_hex0">
+            <English>Replica P90 (Hex)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_P90_rof_weapon_airsoft_p90_black0">
+            <English>Airsoft replica P90 (Black)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_P90_rof_weapon_airsoft_p90_camo0">
+            <English>Airsoft replica P90 (Camo)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_P90_rof_weapon_airsoft_p90_khaki0">
+            <English>Airsoft replica P90 (Khaki)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_P90_rof_weapon_airsoft_p90_hex0">
+            <English>Airsoft replica P90 (Hex)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_P90_rof_weapon_lethal_airsoft_p90_black0">
+            <English>Airsoft replica (lethal) P90 (Black)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_P90_rof_weapon_lethal_airsoft_p90_camo0">
+            <English>Airsoft replica (lethal) P90 (Camo)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_P90_rof_weapon_lethal_airsoft_p90_khaki0">
+            <English>Airsoft replica (lethal) P90 (Khaki)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_P90_rof_weapon_lethal_airsoft_p90_hex0">
+            <English>Airsoft replica (lethal) P90 (Hex)</English>
+        </Key>
+    </Package>
+</Project>

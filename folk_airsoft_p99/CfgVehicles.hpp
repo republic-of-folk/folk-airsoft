@@ -7,7 +7,7 @@ class CfgVehicles
         scope = 0;
         scopeCurator = 0;
         scopeArsenal = 0;
-        author = "Bohemia Interactive / Republic of Folk";
+        author = "$STR_rof_weapons_airsoft_P99_Author";
         editorCategory = "EdCat_Weapons";
         editorSubcategory = "EdSubcat_Pistols";
         vehicleClass = "WeaponsHandguns";
@@ -26,7 +26,7 @@ class CfgVehicles
         scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-        displayName = "Airsoft replica P99";
+        displayName = "$STR_rof_weapons_airsoft_P99_rof_weapon_airsoft_p990";
 
         class TransportMagazines
         {
@@ -42,7 +42,7 @@ class CfgVehicles
         scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-        displayName = "Airsoft replica (lethal) P99";
+        displayName = "$STR_rof_weapons_airsoft_P99_rof_weapon_lethal_airsoft_p990";
 
         class TransportMagazines
         {

@@ -44,7 +44,7 @@ class CfgVehicles
         scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_blk0";
+        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weapon_airsoft_hk416_blk0";
         class TransportWeapons
         {
             class rof_weap_airsoft_hk416_blk
@@ -59,7 +59,7 @@ class CfgVehicles
         scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_khk0";
+        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weapon_airsoft_hk416_khk0";
         class TransportWeapons
         {
             class rof_weap_airsoft_hk416_khk
@@ -74,7 +74,7 @@ class CfgVehicles
         scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_snd0";
+        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weapon_airsoft_hk416_snd0";
         class TransportWeapons
         {
             class rof_weap_airsoft_hk416_snd
@@ -90,7 +90,7 @@ class CfgVehicles
         scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_lethal_blk0";
+        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weapon_lethal_airsoft_hk416_blk";
         class TransportWeapons
         {
             class rof_weap_airsoft_hk416_blk
@@ -105,7 +105,7 @@ class CfgVehicles
         scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_lethal_khk0";
+        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weapon_lethal_airsoft_hk416_khk";
         class TransportWeapons
         {
             class rof_weap_airsoft_hk416_khk
@@ -120,7 +120,7 @@ class CfgVehicles
         scope = 2;
         scopeCurator = 2;
         scopeArsenal = 2;
-        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_lethal_snd0";
+        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weapon_lethal_airsoft_hk416_snd";
         class TransportWeapons
         {
             class rof_weap_airsoft_hk416_snd
