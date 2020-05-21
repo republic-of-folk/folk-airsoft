@@ -7,10 +7,10 @@ class CfgMagazines
     // Pistol
     class rof_16rnd_6mm_bb_airsoft_mag : 16Rnd_9x21_Mag
     {
-        author = "Bohemia Interactive / Republic of Folk";
-        displayName = "6mm airsoft 16rnd magazine";
+        author = "$STR_rof_weapons_airsoft_core_Author";
         displaynameshort = "$STR_rof_weapons_airsoft_core_BB_Shortname";
-        descriptionShort = "Low-capacity magazine for green gas airsoft replica pistol";
+        displayName = "$STR_rof_weapons_airsoft_core_rof_16rnd_6mm_bb_airsoft_mag0";
+        descriptionShort = "$STR_rof_weapons_airsoft_core_rof_16rnd_6mm_bb_airsoft_mag1";
         ammo = "rof_B_6mm_020g_bb";
         count = 16;
         initSpeed = 107; // 350fps
@@ -18,15 +18,16 @@ class CfgMagazines
     };
     class rof_16rnd_6mm_lethal_airsoft_mag : rof_16rnd_6mm_bb_airsoft_mag
     {
-        displayName = "6mm airsoft (lethal) 16rnd magazine";
         displaynameshort = "$STR_rof_weapons_airsoft_core_BB_Lethal_Shortname";
+        displayName = "$STR_rof_weapons_airsoft_core_rof_16rnd_6mm_lethal_airsoft_mag0";
+        descriptionShort = "$STR_rof_weapons_airsoft_core_rof_16rnd_6mm_lethal_airsoft_mag1";
         ammo = "rof_B_6mm_020g_lethal";
     };
 
     // P90
     class rof_50rnd_6mm_bb_airsoft_p90 : 50Rnd_570x28_SMG_03
     {
-        author = "Bohemia Interactive / Republic of Folk";
+        author = "$STR_rof_weapons_airsoft_core_Author";
         displayName = "6mm airsoft 50rnd P90 magazine";
         displaynameshort = "$STR_rof_weapons_airsoft_core_BB_Shortname";
         ammo = "rof_B_6mm_020g_bb";
@@ -69,7 +70,7 @@ class CfgMagazines
     // STANAG
     class rof_30rnd_6mm_bb_airsoft_stanag : 30Rnd_556x45_Stanag
     {
-        author = "Bohemia Interactive / Republic of Folk";
+        author = "$STR_rof_weapons_airsoft_core_Author";
         displayName = "6mm airsoft 30rnd STANAG magazine";
         displaynameshort = "$STR_rof_weapons_airsoft_core_BB_Shortname";
         ammo = "rof_B_6mm_020g_bb";

@@ -37,11 +37,17 @@
         <Key ID="STR_rof_weapons_airsoft_core_rof_optic_Holosight_lush_asg0">
             <English>Holosight (Lush), Airsoft</English>
         </Key>
-        <!-- <Key ID="STR_rof_weapons_airsoft_core_">
-            <English></English>
-        </Key> -->
-        <!-- <Key ID="STR_rof_weapons_airsoft_core_">
-            <English></English>
-        </Key> -->
+        <Key ID="STR_rof_weapons_airsoft_core_rof_16rnd_6mm_bb_airsoft_mag0">
+            <English>6mm airsoft 16rnd magazine</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_16rnd_6mm_bb_airsoft_mag1">
+            <English>Low-capacity magazine for green gas airsoft replica pistol</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_16rnd_6mm_lethal_airsoft_mag0">
+            <English>6mm airsoft (lethal) 16rnd magazine</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_16rnd_6mm_lethal_airsoft_mag1">
+            <English>Low-capacity magazine for green gas airsoft replica pistol</English>
+        </Key>
     </Package>
 </Project>
