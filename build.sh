@@ -6,6 +6,7 @@ addons=(
     folk_airsoft_hk416
     folk_airsoft_p90
     folk_airsoft_p99
+    folk_airsoft_kozlice
 )
 # rm -r "$mod_addons_path/*"
 for addon in "${addons[@]}"; do

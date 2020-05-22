@@ -35,4 +35,11 @@ class CfgMagazineWells
             "rof_300rnd_6mm_lethal_airsoft_stanag_snd",
         };
     };
+    class rof_weapons_airsoft_kozlice
+    {
+        Vanilla_Magazines[] = {
+            "rof_2rnd_6mm_airsoft_shotgun",
+            "rof_2rnd_6mm_lethal_airsoft_shotgun",
+        };
+    };
 };

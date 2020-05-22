@@ -127,5 +127,14 @@
         <Key ID="STR_rof_weapons_airsoft_core_rof_300rnd_6mm_lethal_airsoft_stanag_snd0">
             <English>6mm airsoft (lethal) 300rnd STANAG magazine (Sand)</English>
         </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_2rnd_6mm_airsoft_shotgun0">
+            <English>6mm airsoft 2rnd shotgun shells</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_2rnd_6mm_airsoft_shotgun1">
+            <English>Two airsoft shotgun shells with realistic action. Do not aim at animals.</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_core_rof_2rnd_6mm_lethal_airsoft_shotgun0">
+            <English>6mm airsoft (lethal) 2rnd shotgun shells</English>
+        </Key>
     </Package>
 </Project>

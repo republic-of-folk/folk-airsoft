@@ -11,11 +11,20 @@ class cfgPatches
             "rof_weapon_lethal_airsoft_hk416_blk",
             "rof_weapon_lethal_airsoft_hk416_khk",
             "rof_weapon_lethal_airsoft_hk416_snd",
+            "rof_weapon_airsoft_hk416_GL_blk",
+            "rof_weapon_airsoft_hk416_GL_khk",
+            "rof_weapon_airsoft_hk416_GL_snd",
+            "rof_weapon_lethal_airsoft_hk416_GL_blk",
+            "rof_weapon_lethal_airsoft_hk416_GL_khk",
+            "rof_weapon_lethal_airsoft_hk416_GL_snd",
         };
 		weapons[] = {
             "rof_weap_airsoft_hk416_blk",
             "rof_weap_airsoft_hk416_khk",
             "rof_weap_airsoft_hk416_snd",
+            "rof_weap_airsoft_hk416_GL_blk",
+            "rof_weap_airsoft_hk416_GL_khk",
+            "rof_weap_airsoft_hk416_GL_snd",
         };
 		requiredversion = 1.94;
 		requiredaddons[] = {

@@ -3,6 +3,7 @@ class CfgMagazines
     class 16Rnd_9x21_Mag;
     class 50Rnd_570x28_SMG_03;
     class 30Rnd_556x45_Stanag;
+    class 2Rnd_12Gauge_Pellets;
 
     // Pistol
     class rof_16rnd_6mm_bb_airsoft_mag : 16Rnd_9x21_Mag
@@ -160,5 +161,22 @@ class CfgMagazines
         hiddenSelections[] = {"camo"};
         hiddenSelectionsTextures[] = {"a3\weapons_f_exp\rifles\spar_01\data\arifle_spar_01_snd_f_01_co.paa"};
         picture = "\a3\Weapons_F\MagazineProxies\data\UI\icon_30Rnd_556x45_Stanag_Sand_CA.paa";
+    };
+
+    // Shotgun
+    class rof_2rnd_6mm_airsoft_shotgun : 2Rnd_12Gauge_Pellets {
+        author = "$STR_rof_weapons_airsoft_core_Author";
+        displayName = "$STR_rof_weapons_airsoft_core_rof_2rnd_6mm_airsoft_shotgun0";
+        descriptionShort = "$STR_rof_weapons_airsoft_core_rof_2rnd_6mm_airsoft_shotgun1";
+        displaynameshort = "$STR_rof_weapons_airsoft_core_BB_Shortname";
+        ammo = "rof_B_6mm_020g_bb_submunition";
+        count = 2;
+        initSpeed = 107; // 350fps
+        tracersEvery = 1;
+    };
+    class rof_2rnd_6mm_lethal_airsoft_shotgun : rof_2rnd_6mm_airsoft_shotgun {
+        displayName = "$STR_rof_weapons_airsoft_core_rof_2rnd_6mm_lethal_airsoft_shotgun0";
+        displaynameshort = "$STR_rof_weapons_airsoft_core_BB_Shortname";
+        ammo = "rof_B_6mm_020g_bb_submunition_lethal";
     };
 };

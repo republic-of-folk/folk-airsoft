@@ -130,4 +130,96 @@ class CfgVehicles
             };
         };
     };
+
+    class rof_weapon_airsoft_hk416_GL_blk : rof_weapon_airsoft_hk416_base
+    {
+        scope = 2;
+        scopeCurator = 2;
+        scopeArsenal = 2;
+        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weapon_airsoft_hk416_GL_blk0";
+        class TransportWeapons
+        {
+            class rof_weap_airsoft_hk416_GL_blk
+            {
+                weapon = "rof_weap_airsoft_hk416_GL_blk";
+                count = 1;
+            };
+        };
+    };
+    class rof_weapon_airsoft_hk416_GL_khk : rof_weapon_airsoft_hk416_base
+    {
+        scope = 2;
+        scopeCurator = 2;
+        scopeArsenal = 2;
+        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weapon_airsoft_hk416_GL_khk0";
+        class TransportWeapons
+        {
+            class rof_weap_airsoft_hk416_GL_khk
+            {
+                weapon = "rof_weap_airsoft_hk416_GL_khk";
+                count = 1;
+            };
+        };
+    };
+    class rof_weapon_airsoft_hk416_GL_snd : rof_weapon_airsoft_hk416_base
+    {
+        scope = 2;
+        scopeCurator = 2;
+        scopeArsenal = 2;
+        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weapon_airsoft_hk416_GL_snd0";
+        class TransportWeapons
+        {
+            class rof_weap_airsoft_hk416_GL_snd
+            {
+                weapon = "rof_weap_airsoft_hk416_GL_snd";
+                count = 1;
+            };
+        };
+    };
+
+    class rof_weapon_lethal_airsoft_hk416_GL_blk : rof_weapon_lethal_airsoft_hk416_base
+    {
+        scope = 2;
+        scopeCurator = 2;
+        scopeArsenal = 2;
+        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weapon_lethal_airsoft_hk416_GL_blk";
+        class TransportWeapons
+        {
+            class rof_weap_airsoft_hk416_GL_blk
+            {
+                weapon = "rof_weap_airsoft_hk416_GL_blk";
+                count = 1;
+            };
+        };
+    };
+    class rof_weapon_lethal_airsoft_hk416_GL_khk : rof_weapon_lethal_airsoft_hk416_base
+    {
+        scope = 2;
+        scopeCurator = 2;
+        scopeArsenal = 2;
+        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weapon_lethal_airsoft_hk416_GL_khk";
+        class TransportWeapons
+        {
+            class rof_weap_airsoft_hk416_GL_khk
+            {
+                weapon = "rof_weap_airsoft_hk416_GL_khk";
+                count = 1;
+            };
+        };
+    };
+    class rof_weapon_lethal_airsoft_hk416_GL_snd : rof_weapon_lethal_airsoft_hk416_base
+    {
+        scope = 2;
+        scopeCurator = 2;
+        scopeArsenal = 2;
+        displayName = "$STR_rof_weapons_airsoft_hk416_rof_weapon_lethal_airsoft_hk416_GL_snd";
+        class TransportWeapons
+        {
+            class rof_weap_airsoft_hk416_GL_snd
+            {
+                weapon = "rof_weap_airsoft_hk416_GL_snd";
+                count = 1;
+            };
+        };
+    };
 };

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="rof_weapons_airsoft">
+    <Package name="kozlice">
+        <Key ID="STR_rof_weapons_airsoft_kozlice_Author">
+            <English>Bohemia Interactive / Republic of Folk</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_kozlice_rof_weap_airsoft_kozlice_base0">
+            <English>For when you want to roleplay defending your farm from rogue Soviet soldiers</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_kozlice_rof_weap_airsoft_kozlice0">
+            <English>Replica Shotgun</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_kozlice_rof_weapon_airsoft_kozlice0">
+            <English>Airsoft replica Shotgun</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_kozlice_rof_weapon_lethal_airsoft_kozlice0">
+            <English>Airsoft replica (Lethal) Shotgun</English>
+        </Key>
+    </Package>
+</Project>

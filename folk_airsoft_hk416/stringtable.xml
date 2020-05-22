@@ -7,6 +7,9 @@
         <Key ID="STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_base0">
             <English>Airsoft assault rifle for all your tacticool needs</English>
         </Key>
+        <Key ID="STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_GL_base0">
+            <English>Airsoft assault rifle with fake underbarrel grenade laucher. Tactical!</English>
+        </Key>
         <Key ID="STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_blk0">
             <English>Replica HK416 (Black)</English>
         </Key>
@@ -16,23 +19,50 @@
         <Key ID="STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_snd0">
             <English>Replica HK416 (Sand)</English>
         </Key>
+        <Key ID="STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_GL_blk0">
+            <English>Replica HK416 GL (Black)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_GL_khk0">
+            <English>Replica HK416 GL (Khaki)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_hk416_rof_weap_airsoft_hk416_GL_snd0">
+            <English>Replica HK416 GL (Sand)</English>
+        </Key>
         <Key ID="STR_rof_weapons_airsoft_hk416_rof_weapon_airsoft_hk416_blk0">
-            <English>Airsoft replica P90 (Black)</English>
+            <English>Airsoft replica HK416 (Black)</English>
         </Key>
         <Key ID="STR_rof_weapons_airsoft_hk416_rof_weapon_airsoft_hk416_khk0">
-            <English>Airsoft replica P90 (Khaki)</English>
+            <English>Airsoft replica HK416 (Khaki)</English>
         </Key>
         <Key ID="STR_rof_weapons_airsoft_hk416_rof_weapon_airsoft_hk416_snd0">
-            <English>Airsoft replica P90 (Sand)</English>
+            <English>Airsoft replica HK416 (Sand)</English>
         </Key>
         <Key ID="STR_rof_weapons_airsoft_hk416_rof_weapon_lethal_airsoft_hk416_blk">
-            <English>Airsoft replica (Lethal) P90 (Black)</English>
+            <English>Airsoft replica (Lethal) HK416 (Black)</English>
         </Key>
         <Key ID="STR_rof_weapons_airsoft_hk416_rof_weapon_lethal_airsoft_hk416_khk">
-            <English>Airsoft replica (Lethal) P90 (Khaki)</English>
+            <English>Airsoft replica (Lethal) HK416 (Khaki)</English>
         </Key>
         <Key ID="STR_rof_weapons_airsoft_hk416_rof_weapon_lethal_airsoft_hk416_snd">
-            <English>Airsoft replica (Lethal) P90 (Sand)</English>
+            <English>Airsoft replica (Lethal) HK416 (Sand)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_hk416_rof_weapon_airsoft_hk416_GL_blk0">
+            <English>Airsoft replica HK416 GL (Black)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_hk416_rof_weapon_airsoft_hk416_GL_khk0">
+            <English>Airsoft replica HK416 GL (Khaki)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_hk416_rof_weapon_airsoft_hk416_GL_snd0">
+            <English>Airsoft replica HK416 GL (Sand)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_hk416_rof_weapon_lethal_airsoft_hk416_GL_blk">
+            <English>Airsoft replica (Lethal) HK416 GL (Black)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_hk416_rof_weapon_lethal_airsoft_hk416_GL_khk">
+            <English>Airsoft replica (Lethal) HK416 GL (Khaki)</English>
+        </Key>
+        <Key ID="STR_rof_weapons_airsoft_hk416_rof_weapon_lethal_airsoft_hk416_GL_snd">
+            <English>Airsoft replica (Lethal) HK416 GL (Sand)</English>
         </Key>
     </Package>
 </Project>
